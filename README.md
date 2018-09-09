@@ -8,7 +8,7 @@ Installation:
 
 2. Dependencies: node v8.9.4 and NPM 5.6.0 or above
 
-3. git clone https://gitlab.com/ideafactorychain/idea-factory.git
+3. git clone https://github.com/MKhere/chain-brain2.git
 
 4. cd idea-factory
 
