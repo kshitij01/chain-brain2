@@ -10,7 +10,7 @@ Installation:
 
 3. git clone https://github.com/MKhere/chain-brain2.git
 
-4. cd chain-brain
+4. cd chain-brain2
 
 5. npm install
 
