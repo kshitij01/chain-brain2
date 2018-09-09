@@ -22,6 +22,6 @@ Installation:
 
 9. Approve the MetaMask dialog to certify the BlockChain transaction
 
-10. Your idea is not securely stored in IPFS and a hash of the idea is stored in the BlockChain!
+10. Your idea is now stored in IPFS and a hash of the idea is stored in the BlockChain!
  
 # chain-brain
