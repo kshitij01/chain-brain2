@@ -92,7 +92,7 @@ class App extends Component {
       return (
         <div className="App">
           <header className="App-header">
-            <h1> Idea Factory - Democratize the Ideation Process</h1>
+            <h1> Chain Brain - AI Driven Idea Ledger</h1>
           </header>
           
           <hr />
