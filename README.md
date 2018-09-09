@@ -10,7 +10,7 @@ Installation:
 
 3. git clone https://github.com/MKhere/chain-brain2.git
 
-4. cd idea-factory
+4. cd chain-brain
 
 5. npm install
 
